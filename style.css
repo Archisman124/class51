@@ -1,0 +1,22 @@
+h1 {
+    color:#bb0977;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.header{
+    background-color:#8805bb;
+    display:flex;
+    justify-content:space-between;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end
+}
+body{
+background-color:#888888
+}
+
